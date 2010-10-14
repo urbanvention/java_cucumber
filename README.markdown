@@ -29,3 +29,8 @@ After that I run `ant` to run the cucumber scenarios.
 Given `ANT_HOME=/usr/share/ant`, copy the ivy jar to the `ANT_HOME/lib`.
 
     cp build/artifact/org.apache.ivy_2.2.0.final_20101013172528.jar $ANT_HOME/lib/
+
+# Credits
+
+Check out [duke4cuke](http://github.com/aslakhellesoy/cuke4duke).
+They've got lots more examples and stuff.
