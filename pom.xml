@@ -43,7 +43,7 @@
             <cucumberArg>${basedir}/target</cucumberArg>
           </cucumberArgs>
           <gems>
-            <gem>install cuke4duke --version 0.2.1 --source http://gems.rubyforge.org/</gem>
+            <gem>install cuke4duke --version 0.4.2 --source http://gems.rubyforge.org/</gem>
           </gems>
         </configuration>
         <executions>
